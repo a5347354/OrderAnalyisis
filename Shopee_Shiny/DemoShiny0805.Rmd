@@ -1,0 +1,11 @@
+---
+title: "DemoPraticeShiny0805"
+author: "Luke Fan"
+date: "2016年8月5日"
+output: html_document
+---
+
+```{r}
+library(shiny)
+```
+

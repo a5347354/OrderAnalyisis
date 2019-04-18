@@ -1,0 +1,10 @@
+name: Shopee_Shiny
+account: apollofan
+server: shinyapps.io
+appId: 119527
+bundleId: 529491
+url: https://apollofan.shinyapps.io/Shopee_Shiny/
+when: 1470927139.96414
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DemoShiny0805.Rmd
